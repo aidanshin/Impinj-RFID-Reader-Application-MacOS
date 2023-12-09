@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1700.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "impinjspeedwayreader", "impinjspeedwayreader\impinjspeedwayreader.csproj", "{ABCEF027-A289-40D9-9DB3-6A5652DAFC3B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABCEF027-A289-40D9-9DB3-6A5652DAFC3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABCEF027-A289-40D9-9DB3-6A5652DAFC3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABCEF027-A289-40D9-9DB3-6A5652DAFC3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABCEF027-A289-40D9-9DB3-6A5652DAFC3B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7217D5D1-D1BD-4CA5-B675-DCB492B89972}
+	EndGlobalSection
+EndGlobal

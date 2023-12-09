@@ -1,0 +1,35 @@
+/Users/aidanshinfeld/Projects/impinjspeedwayreader/impinjspeedwayreader/bin/Debug/impinj speedway reader.exe
+/Users/aidanshinfeld/Projects/impinjspeedwayreader/impinjspeedwayreader/bin/Debug/impinj speedway reader.pdb
+/Users/aidanshinfeld/Projects/impinjspeedwayreader/impinjspeedwayreader/obj/Debug/actool/_PartialAppManifest.items
+/Users/aidanshinfeld/Projects/impinjspeedwayreader/impinjspeedwayreader/obj/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/aidanshinfeld/Projects/impinjspeedwayreader/impinjspeedwayreader/obj/Debug/actool/_ProcessedImageAssetsPath.items
+/Users/aidanshinfeld/Projects/impinjspeedwayreader/impinjspeedwayreader/obj/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/aidanshinfeld/Projects/impinjspeedwayreader/impinjspeedwayreader/obj/Debug/ibtool/_ProcessedInterfaceDefinitionsPath.items
+/Users/aidanshinfeld/Projects/impinjspeedwayreader/impinjspeedwayreader/obj/Debug/coremlc/_PartialAppManifest.items
+/Users/aidanshinfeld/Projects/impinjspeedwayreader/impinjspeedwayreader/obj/Debug/coremlc/_BundleResourceWithLogicalName.items
+/Users/aidanshinfeld/Projects/impinjspeedwayreader/impinjspeedwayreader/obj/Debug/coremlc/_ProcessedCoreMLModelsPath.items
+/Users/aidanshinfeld/Projects/impinjspeedwayreader/impinjspeedwayreader/obj/Debug/_ProcessedBundleResourcesPath.items
+/Users/aidanshinfeld/Projects/impinjspeedwayreader/impinjspeedwayreader/obj/Debug/_ProcessedContentPath.items
+/Users/aidanshinfeld/Projects/impinjspeedwayreader/impinjspeedwayreader/obj/Debug/impinjspeedwayreader.csproj.AssemblyReference.cache
+/Users/aidanshinfeld/Projects/impinjspeedwayreader/impinjspeedwayreader/obj/Debug/impinjspeedwayreader.csproj.CoreCompileInputs.cache
+/Users/aidanshinfeld/Projects/impinjspeedwayreader/impinjspeedwayreader/obj/Debug/impinj speedway reader.exe
+/Users/aidanshinfeld/Projects/impinjspeedwayreader/impinjspeedwayreader/obj/Debug/impinj speedway reader.pdb
+/Users/aidanshinfeld/Projects/impinjspeedwayreader/impinjspeedwayreader/bin/Debug/Impinj.OctaneSdk.dll
+/Users/aidanshinfeld/Projects/impinjspeedwayreader/impinjspeedwayreader/bin/Debug/LLRP.dll
+/Users/aidanshinfeld/Projects/impinjspeedwayreader/impinjspeedwayreader/bin/Debug/LLRP.Impinj.dll
+/Users/aidanshinfeld/Projects/impinjspeedwayreader/impinjspeedwayreader/bin/Debug/Renci.SshNet.dll
+/Users/aidanshinfeld/Projects/impinjspeedwayreader/impinjspeedwayreader/bin/Debug/Xamarin.Mac.dll
+/Users/aidanshinfeld/Projects/impinjspeedwayreader/impinjspeedwayreader/bin/Debug/Xamarin.Mac.pdb
+/Users/aidanshinfeld/Projects/impinjspeedwayreader/impinjspeedwayreader/bin/Debug/Renci.SshNet.xml
+/Users/aidanshinfeld/Projects/impinjspeedwayreader/impinjspeedwayreader/bin/Debug/Impinj.OctaneSdk.xml
+/Users/aidanshinfeld/Projects/impinjspeedwayreader/impinjspeedwayreader/obj/Debug/impinjspeedwayreader.csproj.CopyComplete
+/Users/aidanshinfeld/Projects/impinjspeedwayreader/impinjspeedwayreader/bin/Debug/CsvHelper.dll
+/Users/aidanshinfeld/Projects/impinjspeedwayreader/impinjspeedwayreader/bin/Debug/System.Buffers.dll
+/Users/aidanshinfeld/Projects/impinjspeedwayreader/impinjspeedwayreader/bin/Debug/System.Memory.dll
+/Users/aidanshinfeld/Projects/impinjspeedwayreader/impinjspeedwayreader/bin/Debug/System.Numerics.Vectors.dll
+/Users/aidanshinfeld/Projects/impinjspeedwayreader/impinjspeedwayreader/bin/Debug/System.Runtime.CompilerServices.Unsafe.dll
+/Users/aidanshinfeld/Projects/impinjspeedwayreader/impinjspeedwayreader/bin/Debug/System.Buffers.xml
+/Users/aidanshinfeld/Projects/impinjspeedwayreader/impinjspeedwayreader/bin/Debug/System.Numerics.Vectors.xml
+/Users/aidanshinfeld/Projects/impinjspeedwayreader/impinjspeedwayreader/bin/Debug/System.Runtime.CompilerServices.Unsafe.xml
+/Users/aidanshinfeld/Projects/impinjspeedwayreader/impinjspeedwayreader/bin/Debug/System.Memory.xml
+/Users/aidanshinfeld/Projects/impinjspeedwayreader/impinjspeedwayreader/bin/Debug/CsvHelper.xml

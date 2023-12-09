@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <_PostProcessingItem Include="impinj speedway reader.app/Contents/MacOS/impinj speedway reader">
+      <BCSymbolMapName>impinj speedway reader.bcsymbolmap</BCSymbolMapName>
+      <NoDSymUtil>true</NoDSymUtil>
+      <dSYMSourcePathExists>false</dSYMSourcePathExists>
+      <NoSymbolStrip>true</NoSymbolStrip>
+      <dSYMInfoPlistRelativePath>impinj speedway reader.app.dSYM\Contents\Info.plist</dSYMInfoPlistRelativePath>
+      <SymbolFile>obj/Debug/mtouch-symbols.list</SymbolFile>
+      <DSymName>impinj speedway reader.app.dSYM</DSymName>
+      <SourceProjectPath>/Users/aidanshinfeld/Projects/impinjspeedwayreader/impinjspeedwayreader</SourceProjectPath>
+    </_PostProcessingItem>
+  </ItemGroup>
+</Project>
